@@ -10,7 +10,7 @@ two-dimensional scattered points to which measurements are attached. Often these
 datasets have a highly irregular spatial distribution. For example, bathymetric
 data are often collected at high sample rates along a boat track, but there can
 be significantly large distances between each boat track. Another example is
-rain guage networks, where the location of the gauges is often determined by
+rain gauge networks, where the location of the gauges is often determined by
 factors like funding and available cooperators. In order to use these datasets
 in visualization products, simulation models or aggregations to larger spatial
 units, interpolation is often required to estimate the value of a measurement at
@@ -31,7 +31,7 @@ implement several of these algorithms. In addition, it implements a channel
 following anistropic interpolation algorithm for features where the direction of
 the anistropy changes in space such as in a river channel. Large datasets are
 handled efficiently through the use of k-dimensional trees for efficient
-nieghborhood searches and a parallel implementation based on the IPython
+neighborhood searches and a parallel implementation based on the IPython
 parallel architecture allows use of multicore systems and hpc clusters. 
 
 At the Texas Water Development Board, this toolkit has been used to improve lake
