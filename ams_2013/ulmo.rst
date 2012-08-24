@@ -5,26 +5,24 @@ Title
 Abstract
 ========
 
-There is an abundance of high quality public hydrology datasets available over
-the web. But very often these datasets are structured very differently, both 
-terms of the querying mechanism and in the delivery format. Actually working with 
-the data requires much tedious work to liberate data from the formats they are 
-served in. This is why we have created Ulmo, an open source python library for 
-clean, simple and fast access to public hydrology datasets.
-
+There are many high quality hydrology and climatology datasets available over
+the web, but these datasets are usually structured uniquely, with distinct
+querying mechanisms and delivery formats. Liberating data from their native
+structures is often tedious and error-prone. This is why we created Ulmo, an
+open source python library for clean, simple and fast access to public hydrology
+and climatology data.
 
 Ulmo retrieves and parses datasets from the web and returns simple python data
 structures that can be easily pulled into more sophisticated tools for analysis.
-Work directly over the network can be impractical, particularly with large
+Working directly over the network is often impractical, particularly with large
 datasets, so Ulmo also provides fast local caches. Data can be initially
-downloaded once and updates are harvested as needed, conserving bandwidth and
-time. 
-
+downloaded once and updates harvested as needed, conserving bandwidth and time. 
 
 Ulmo currently supports CUAHSI WaterOneFlow services, United States Geologic
-Survey National Water Information System web services and National Climatic Data 
-Center Global Summary of the Day. Ulmo is being actively used by the Texas Water 
-Development Board in support of our Surface Water Resources program.
+Survey National Water Information System web services and data from the National
+Climatic Data Center's Global Summary of the Day, with support for more datasets
+on the way. Ulmo is being actively used by the Texas Water Development Board in
+support of our Surface Water Resources program.
 
 
 
