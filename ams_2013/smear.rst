@@ -32,11 +32,12 @@ following anistropic interpolation algorithm for features where the direction of
 the anistropy changes in space such as in a river channel. Large datasets are
 handled efficiently through the use of k-dimensional trees for efficient
 neighborhood searches and a parallel implementation based on the IPython
-parallel architecture allows use of multicore systems and hpc clusters. 
+parallel architecture allows use of multicore systems and HPC clusters. 
 
 At the Texas Water Development Board, this toolkit has been used to improve lake
 volume and sediment estimates and to improve the representation of river and
 channel bathymetry within hydrodynamic models.
+
 
 Authors
 =======
