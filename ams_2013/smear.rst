@@ -6,14 +6,14 @@ Abstract
 ========
 
 Geophysical datasets collected to study the Earth often come in the form of
-two-dimensional scattered points to which measurements are attached. Often these
-datasets have a highly irregular spatial distribution. For example, bathymetric
-data are often collected at high sample rates along a boat track, but there can
+two-dimensional scattered points to which measurements are attached. These
+datasets will often have a highly irregular spatial distribution. For example, bathymetric
+data are normally collected at high sample rates along a boat track but there can
 be significantly large distances between each boat track. Another example is
 rain gauge networks, where the location of the gauges is often determined by
 factors like funding and available cooperators. In order to use these datasets
 in visualization products, simulation models or aggregations to larger spatial
-units, interpolation is often required to estimate the value of a measurement at
+units, interpolation is required to estimate the value of a measurement at
 unsampled locations. Depending on the properties of the feature being modeled
 and the spatial distribution of measurements, varying spatial interpolation
 methods may be appropriate. In many cases, anisotropy may be present and the
