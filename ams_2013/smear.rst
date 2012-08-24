@@ -26,7 +26,7 @@ accessible only through a GUI interface and are not easily scriptable or
 extendable. Smear was developed to provide an extendable open source toolkit for
 spatial interpolation.
 
-Smear utilizes several open source python scientific and GIS libraries to
+Smear utilizes open source python scientific and GIS libraries to
 implement several of these algorithms. In addition, it implements a channel
 following anistropic interpolation algorithm for features where the direction of
 the anistropy changes in space such as in a river channel. Large datasets are
