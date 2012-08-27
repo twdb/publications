@@ -7,9 +7,9 @@ Abstract
 
 Geophysical datasets collected to study the Earth often come in the form of
 two-dimensional scattered points to which measurements are attached. These
-datasets will often have highly irregular spatial distributions. Examples
+datasets often have highly irregular spatial distributions. Examples
 include bathymetric data, which are normally collected at high sample rates
-along a boat track but there can be significantly large distances between each
+along a boat track but can have significantly large distances between each
 boat track. Another representative dataset is rain gauge networks, where the
 location of the gauges is often determined by factors like funding and available
 cooperators. Values for unsampled locations must be interpolated for use in
