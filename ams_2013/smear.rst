@@ -10,8 +10,8 @@ two-dimensional scattered points to which measurements are attached. These
 datasets often have highly irregular spatial distributions. Examples
 include bathymetric data, which are normally collected at high sample rates
 along a boat track but can have significantly large distances between each
-boat track. Another representative dataset is rain gauge networks, where the
-location of the gauges is often determined by factors like funding and available
+boat track. Rain gauge networks are also representative datasets, where the
+locations of gauges are often determined by factors like funding and available
 cooperators. Values for unsampled locations must be interpolated for use in
 visualization products, simulation models or aggregations to larger spatial
 units. The properties of the feature being modeled and the spatial distribution
