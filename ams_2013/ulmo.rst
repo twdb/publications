@@ -7,7 +7,7 @@ Abstract
 ========
 
 There are many high quality hydrology and climatology datasets available over
-the web, but these datasets are usually structured uniquely, with distinct
+the web, but these datasets are usually structured uniquely with distinct
 querying mechanisms and delivery formats. Liberating data from their native
 structures is often tedious and error-prone. This is why we created Ulmo, an
 open source python library for clean, simple and fast access to public hydrology
