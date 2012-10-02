@@ -26,3 +26,34 @@ Bios
 
 Andy Wilson develops software for Water Science and Conservation Division of the
 Texas Water Development Board. 
+
+
+
+Outline
+=======
+
+- Why?
+
+- Python
+  - great for scientists
+
+
+- Flask
+  It's great
+
+- PostgreSQL and PostGIS
+
+- SQLAlchemy
+
+- Celery
+
+- nginx & uwsgi
+
+- fabric
+
+- vagrant
+
+
+- Future
+
+
